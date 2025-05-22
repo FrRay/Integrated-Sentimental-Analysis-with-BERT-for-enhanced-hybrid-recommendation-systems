@@ -1,0 +1,8 @@
+pandas
+nltk
+torch
+transformers
+tensorflow
+numpy
+gensim
+scikit-learn
